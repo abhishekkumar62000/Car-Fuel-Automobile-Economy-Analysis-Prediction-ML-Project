@@ -1,8 +1,7 @@
 # Car-Fuel-Automobile-Economy-Analysis-Prediction-ML-Project
-
-
-
-
+![Project Thumnails](https://github.com/user-attachments/assets/9ac33b61-350a-46b5-850f-063ead3cd50d)
+![pngwing com (17)](https://github.com/user-attachments/assets/ce3f8967-b7eb-4487-82ff-ececce4927a5)
+![image3](https://github.com/user-attachments/assets/055908ff-da9b-404d-8fbb-930d85784c2e)
 
 # 🚗 **Car Fuel Automobile Economy Analysis & Prediction ML Project**
 
